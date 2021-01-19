@@ -1,0 +1,10 @@
+Preliminary: notes on frequency result measurement offset
+Kenji Rikitake, JJ1BDX
+Updated: 17-DEC-2020 1450UTC
+
+After the December Eclipse 2020 Festival, I've been measuring the reception
+frequency offset of Airspy HF+ Discovery for the measurement set to 9999kHz
+USB with Leo Bodnar Mini GPSDO set to 10MHz.  The detailed measurement for 12
+hours suggested that the 10MHz is mapped to 998.8689Hz. This means the Airspy
+HF+ Discovery is actually set to 9999kHz + 1.1311 Hz higher in the reception
+carrier frequency.

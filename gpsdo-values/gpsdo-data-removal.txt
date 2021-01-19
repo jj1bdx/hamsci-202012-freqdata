@@ -1,0 +1,4 @@
+GPSDO measured data gpsdo-20201217-freq-source.txt had two major anomalies
+(plausibly room temperature change). Anomalies removed from the reference data
+of gpsdo-20201217-freq-ref.txt to calculate the mean value and the standard
+deviation.
