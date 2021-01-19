@@ -19,7 +19,7 @@ This repository contains [HamSCI December 2020 Eclipse Festival of Frequency Mea
 * Estimated frequency of received AM carrier for the standard frequency stations (BPM, WWVH, WWV were observable)
 * Estimated signal strength (by airspy-fmradion dBFS IF strength reading)
 * GPSDO offset measured after the frequency measurement on 17-DEC-2020
-* Raw data set is available at [the designated DropBox folder](https://www.dropbox.com/sh/n7auhzxflu0cz3j/AADRhs8OS2dq1BkGtcF3u1sqa?dl=0)
+* Raw data set is available at [the designated Dropbox folder](https://www.dropbox.com/sh/n7auhzxflu0cz3j/AADRhs8OS2dq1BkGtcF3u1sqa?dl=0)
 
 ## Files in this repository
 
