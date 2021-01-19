@@ -1,6 +1,6 @@
 # hamsci-202012-freqdata
 
-This repository contains [HamSCI December 2020 Eclipse Festival of Frequency Measurement](https://hamsci.org/december-2020-eclipse-festival-frequency-measurement) result from my home station JJ1BDX in Setagaya-ku, Tokyo, Japan at Grid Locator PM95tp.
+This repository contains [HamSCI December 2020 Eclipse Festival of Frequency Measurement](https://hamsci.org/december-2020-eclipse-festival-frequency-measurement) result from my home station JJ1BDX in Setagaya City, Tokyo, Japan at Grid Locator PM95tp.
 
 ## Measurement date and time
 
